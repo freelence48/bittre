@@ -16,12 +16,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBrYLauGAqwFqtLI_-TUrzVoJU2Bj7KuRM",
-  authDomain: "najio-916fc.firebaseapp.com",
-  projectId: "najio-916fc",
-  storageBucket: "najio-916fc.appspot.com",
-  messagingSenderId: "245691497504",
-  appId: "1:245691497504:web:a3cfb02ae8d104346e1045"
+  apiKey: "AIzaSyAVUxE9JmNo5Ip34WtI3YNwU-9NR7JMnV8",
+  authDomain: "bittre-3f20d.firebaseapp.com",
+  databaseURL: "https://bittre-3f20d-default-rtdb.firebaseio.com",
+  projectId: "bittre-3f20d",
+  storageBucket: "bittre-3f20d.appspot.com",
+  messagingSenderId: "616289427790",
+  appId: "1:616289427790:web:30cf067cf29f249ee17e1f"
 };
 
 // Initialize Firebase
